@@ -3,29 +3,11 @@
     "pins": [
       {
         "package": "COpenSSL",
-        "repositoryURL": "https://github.com/PerfectlySoft/Perfect-COpenSSL-Linux.git",
+        "repositoryURL": "https://github.com/PerfectlySoft/Perfect-COpenSSL.git",
         "state": {
           "branch": null,
-          "revision": "6c75ce4b9e6218d6405a203ef789fbb6f5e72df8",
-          "version": "3.0.1"
-        }
-      },
-      {
-        "package": "LinuxBridge",
-        "repositoryURL": "https://github.com/PerfectlySoft/Perfect-LinuxBridge.git",
-        "state": {
-          "branch": null,
-          "revision": "ba9d1fb5be8eb238521206b39bec90a760bb0192",
-          "version": "3.0.0"
-        }
-      },
-      {
-        "package": "PerfectCrypto",
-        "repositoryURL": "https://github.com/PerfectlySoft/Perfect-Crypto.git",
-        "state": {
-          "branch": null,
-          "revision": "a440ab1dd8d3d87103312f1328bfb1648e7045e3",
-          "version": "3.0.2"
+          "revision": "aa39c5503945abf36f6d8d0b632b6188288f999f",
+          "version": "3.1.1"
         }
       },
       {
@@ -35,6 +17,15 @@
           "branch": null,
           "revision": "2002034d47e9d57a695fb33ad2e09f136868b406",
           "version": "0.0.3"
+        }
+      },
+      {
+        "package": "PerfectCrypto",
+        "repositoryURL": "https://github.com/PerfectlySoft/Perfect-Crypto.git",
+        "state": {
+          "branch": null,
+          "revision": "a440ab1dd8d3d87103312f1328bfb1648e7045e3",
+          "version": "3.0.2"
         }
       },
       {
